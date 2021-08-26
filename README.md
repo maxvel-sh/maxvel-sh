@@ -1,5 +1,5 @@
 ## Hey there! 👋
-Beep Boop! This Github handle is for interacting with other interesting projects. <br>
+Beep Boop! This Github handle is for interacting with other interesting projects on Github. <br>
 To check my repositories and things that I'm working on, head on to [Codeberg](https://codeberg.org/maxvel).
 
 ### Elsewhere
